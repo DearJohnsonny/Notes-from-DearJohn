@@ -1,6 +1,12 @@
 # To start with
 <a href="网址">uzi yyds</a>
 ## crispr系统
+CRISPR/Cas系统可以分为两类：第一类系统的核酸酶由多个亚基组成；第二类系统特别受关注，其核酸酶由单一的蛋白组成，包括基于Cas9、Cas12和Cas13效应蛋白的II、V和VI型。其中最熟悉的 Cas9 蛋白广泛用于基因组编辑等工作，但是CRISPR-Cas9系统也有它的不足之处，即脱靶效应。
+### cas 13
+CRISPR 蛋白家族中的 Cas13 可以靶向RNA 进行基因编辑，其专注靶向RNA的功能补充了靶向DNA的CRISPR-Cas9系统。2016年6月2日，美国麻省理工学院和麻省理工学院-哈佛大学博德研究所的张锋等在《Science》发文，揭示 C2c2 是第一个只靶向RNA而不是DNA的新型CRISPR系统。
+不同于靶向DNA的CRISPR相关酶（如Cas9和Cpf1），Cas13a能够在切割它的靶RNA之后保持活性，而且可能表现出不加区别的切割活性，而且在一系列被称作“**附带切割**（collateral cleavage）”的作用当中，继续切割其他的非靶RNA。
+![image](https://user-images.githubusercontent.com/111955215/186410590-b32bb595-fa81-468e-bda5-df8ba4d08d7f.png)
+
 ### 质粒的构建
 <a href="https://www.jianshu.com/p/d97965eb70af">启动子作用功能以及分类介绍_简书</a>
 #### lentiCRISPRv2
