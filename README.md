@@ -3,7 +3,13 @@
 ## crispr系统
 ### 质粒的构建
 <a href="https://www.jianshu.com/p/d97965eb70af">启动子作用功能以及分类介绍_简书</a>
-
+#### lentiCRISPRv2
+BsmBI site的开头是CACC,结尾是CAAA。设计oligo的时候要确保在开头的基础上加G，以确保稳定性。
+所以设计Oligo的时候是：
+Forward：5' - CACCG - 20bp - 3'
+Reverse：5'- AAAC -20bp（Copy bottom strand 5'->3） - C - 3' (注意后面还跟一个C！！！)
+Oligo粘合之后，应该长成下图这样：
+![image](https://user-images.githubusercontent.com/111955215/186406530-b17607c1-c78f-46f4-bcbf-36ccb22dd857.png)
 <a href="https://www.jianshu.com/p/6de326895f5b">SgRNA and lentiCRISPRv2_简书</a>
 
 <a href="https://www.jingege.wang/2020/05/29/crispr-cas9-sgrna%e8%ae%be%e8%ae%a1%e5%92%8c%e8%bd%bd%e4%bd%93%e6%9e%84%e5%bb%ba/">CRISPR-Cas9 sgRNA设计和载体构建</a>
