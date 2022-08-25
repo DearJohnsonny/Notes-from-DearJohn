@@ -14,9 +14,13 @@ Biotech Notes from DearJohn
 ### 泛素蛋白酶体途径
 #### 关于泛素
 泛素化作为蛋白翻译后修饰（PTM）的方式之一，不仅参与蛋白质的降解，在调节细胞功能方面也发挥着重要作用
+
 泛素为含76个氨基酸、大小约为8.6 kDa的小蛋白质，在真核生物中普遍存在且高度保守。人类基因组中的四个基因编码泛素：UBB，UBC，UBA52和RPS27A。
+
 泛素氨基酸序列：MQIFVKTLTGKTITLEVEPSDTIENVKAKIQDKEGIPPDQQRLIFAGKQLEDGRTLSDYNIQKESTLHLVLRLRGG
+
 泛素具有7个赖氨酸残基（K6，K11，K27，K29，K33，K48，K63）和一个甲硫氨酸残基（M1）。泛素之间主要通过赖氨酸残基和甲硫氨酸残基进行各种连接。由此产生的泛素链产生一定的拓扑结构，可通过对蛋白底物进行修饰并决定底物的功能。
+
 泛素蛋白的结构：
 
 ![image](https://user-images.githubusercontent.com/111955215/186657876-63a0363f-7a1a-4719-91d0-b7aba0c145f2.png)
