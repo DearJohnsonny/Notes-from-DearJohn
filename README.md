@@ -10,7 +10,7 @@ Biotech Notes from DearJohn
 |abc|bcd|cde|
 |abc|bcd|cde|
 ## 靶向蛋白降解
-可以分为溶酶体途径和泛素蛋白酶体途径，前者主要
+可以分为溶酶体途径和泛素蛋白酶体途径，前者主要降解膜蛋白，后者主要降解细胞内蛋白
 ### 泛素蛋白酶体途径
 #### 关于泛素
 泛素化作为蛋白翻译后修饰（PTM）的方式之一，不仅参与蛋白质的降解，在调节细胞功能方面也发挥着重要作用
@@ -19,8 +19,15 @@ Biotech Notes from DearJohn
 泛素具有7个赖氨酸残基（K6，K11，K27，K29，K33，K48，K63）和一个甲硫氨酸残基（M1）。泛素之间主要通过赖氨酸残基和甲硫氨酸残基进行各种连接。由此产生的泛素链产生一定的拓扑结构，可通过对蛋白底物进行修饰并决定底物的功能。
 泛素蛋白的结构：
 
-下图为泛素的功能位点
+![image](https://user-images.githubusercontent.com/111955215/186657876-63a0363f-7a1a-4719-91d0-b7aba0c145f2.png)
 
+下图为泛素的功能位点:
+
+![image](https://user-images.githubusercontent.com/111955215/186657909-d2b749e7-5195-489e-b4e9-d62a27c52123.png)
+
+泛素降解的机制：
+
+![image](https://user-images.githubusercontent.com/111955215/186657989-5cf6e6b1-a979-4be7-8ab5-646861051d56.png)
 
 ## 免疫检查点/immune checkpoint
 ### PD-1/PD-L1
