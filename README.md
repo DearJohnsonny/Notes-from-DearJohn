@@ -5,7 +5,8 @@ Biotech Notes from DearJohn
 CRISPR/Cas系统可以分为两类：第一类系统的核酸酶由多个亚基组成；第二类系统特别受关注，其核酸酶由单一的蛋白组成，包括基于Cas9、Cas12和Cas13效应蛋白的II、V和VI型。其中最熟悉的 Cas9 蛋白广泛用于基因组编辑等工作，但是CRISPR-Cas9系统也有它的不足之处，即**脱靶效应**。
 ### 脱靶效应
 下图是gRNA的质粒序列
-
+* 学习
+* 吃饭
 ![image](https://user-images.githubusercontent.com/111955215/186557683-6ff9b21b-2369-4094-8fd8-6b7d8834329b.png)
 
 而可能有相当多的相似序列也可能被切掉，如下图
