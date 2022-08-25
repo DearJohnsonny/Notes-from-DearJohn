@@ -9,6 +9,9 @@ Biotech Notes from DearJohn
 |abc|bcd|cde|
 |abc|bcd|cde|
 |abc|bcd|cde|
+## 免疫检查点/immune checkpoint
+### PD-1/PD-L1
+* The difference between PD-1 and PD-L1:在实际试验中，人们发现达到同样的抑制效果PD-L1的剂量必须非常高，这就导致PD-L1的成本远远高于PD-1。PD1的剂量，大家差不多就是200mg 3周注射一次；PD-L1的剂量，阿斯利康的PDL1 Durvalumab剂量是1500mg 4周一次，故一旦药物价格面临着下行压力，PD-L1商业化价值远远低于PD1。
 ## crispr系统
 ![image](https://user-images.githubusercontent.com/111955215/186565886-532b4a7d-0b7d-44d2-8946-e009b7f0e908.png)
 
