@@ -9,6 +9,11 @@ Biotech Notes from DearJohn
 |abc|bcd|cde|
 |abc|bcd|cde|
 ## crispr系统
+![image](https://user-images.githubusercontent.com/111955215/186565886-532b4a7d-0b7d-44d2-8946-e009b7f0e908.png)
+下图有俩启动子，可以用U6启动gDNA，用EF-1a启动Cas9
+![image](https://user-images.githubusercontent.com/111955215/186566329-96b05f44-759e-4963-839e-54199bba6d89.png)
+
+
 CRISPR/Cas系统可以分为两类：第一类系统的核酸酶由多个亚基组成；第二类系统特别受关注，其核酸酶由单一的蛋白组成，包括基于Cas9、Cas12和Cas13效应蛋白的II、V和VI型。其中最熟悉的 Cas9 蛋白广泛用于基因组编辑等工作，但是CRISPR-Cas9系统也有它的不足之处，即**脱靶效应**。
 ### 脱靶效应
 下图是gRNA的质粒序列
