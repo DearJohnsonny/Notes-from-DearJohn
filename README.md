@@ -1,12 +1,12 @@
 Biotech Notes from DearJohn
 =====
 <a href="网址">uzi yyds</a>
+ <font color=red>uzi yyds</font>
 ## crispr系统
 CRISPR/Cas系统可以分为两类：第一类系统的核酸酶由多个亚基组成；第二类系统特别受关注，其核酸酶由单一的蛋白组成，包括基于Cas9、Cas12和Cas13效应蛋白的II、V和VI型。其中最熟悉的 Cas9 蛋白广泛用于基因组编辑等工作，但是CRISPR-Cas9系统也有它的不足之处，即**脱靶效应**。
 ### 脱靶效应
 下图是gRNA的质粒序列
-* 学习
-* 吃饭
+
 ![image](https://user-images.githubusercontent.com/111955215/186557683-6ff9b21b-2369-4094-8fd8-6b7d8834329b.png)
 
 而可能有相当多的相似序列也可能被切掉，如下图
@@ -23,6 +23,8 @@ CRISPR 蛋白家族中的 Cas13 可以靶向RNA 进行基因编辑，其专注�
 
 <a href="https://tools.synthego.com/#/">一个很好用的设计网站</a>
 #### lentiCRISPRv2系统
+![image](https://user-images.githubusercontent.com/111955215/186564662-42edb366-ba0c-4bcc-bcf5-00878ba8ae52.png)
+
 BsmBI site的开头是CACC,结尾是CAAA。设计oligo的时候要确保在开头的基础上加G，以确保稳定性。
 所以设计Oligo的时候是：
 Forward：5' - CACCG - 20bp - 3'
