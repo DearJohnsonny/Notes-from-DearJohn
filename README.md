@@ -10,7 +10,8 @@ Biotech Notes from DearJohn
 |abc|bcd|cde|
 ## crispr系统
 ![image](https://user-images.githubusercontent.com/111955215/186565886-532b4a7d-0b7d-44d2-8946-e009b7f0e908.png)
-下图有俩启动子，可以用U6启动gDNA，用EF-1a启动Cas9
+
+下图右中有俩启动子，可以用**U6启动gDNA，用EF-1a启动Cas9**
 ![image](https://user-images.githubusercontent.com/111955215/186566329-96b05f44-759e-4963-839e-54199bba6d89.png)
 
 
