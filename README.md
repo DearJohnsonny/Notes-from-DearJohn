@@ -18,6 +18,7 @@ CRISPR 蛋白家族中的 Cas13 可以靶向RNA 进行基因编辑，其专注�
 
 ### 质粒的构建
 <a href="https://www.jianshu.com/p/d97965eb70af">启动子作用功能以及分类介绍_简书</a>
+
 <a href="https://tools.synthego.com/#/">一个很好用的设计网站</a>
 #### lentiCRISPRv2系统
 BsmBI site的开头是CACC,结尾是CAAA。设计oligo的时候要确保在开头的基础上加G，以确保稳定性。
