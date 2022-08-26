@@ -20,6 +20,7 @@ Biotech Notes from DearJohn
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/186907142-fc119948-ebc1-46cb-a628-7b30c7726cb7.png" width="600">
 </div>
+
 #### AAV的作用机制
 AAV会和糖基化的细胞表面受体结合，并被吞入细胞内，形成初级内体，此后再形成次级内体。次级内体的AAV会被转运进入细胞核，并释放出DNA。
 目前主要的重组的rAAV有两类：一类（ single-stranded AAV ，ssAAV）是未形成互补链的单正链或单负链，需要先利用宿主的DNA聚合酶形成互补链，或者与同时转入细胞核的互补链退火互补；另一类（self-complementary AAV ，scAAV）在设计之时已经为互补单链。形成互补链之后， rAAV的基因组中的inverted terminal repeats (ITRs)会促成已经形成互补链的DNA分子的重排，从而形成环状的核内DNA分子（episome）。该环状DNA分子偶尔会插入到宿主的基因组中，多数时候不会起作用，可以长期随细胞保留（一般时间长达5个月）。通常情况下 AAV 不能独立复制，只有在辅助病毒（如腺病毒，单纯疱疹病毒，痘苗病毒）存在时，才能进行复制
