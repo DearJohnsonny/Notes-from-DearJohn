@@ -15,7 +15,7 @@ Biotech Notes from DearJohn
 ----------
 ## Z-DNA
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/186901257-de1eb4d5-68ac-4e3c-b686-37e942c0420e.png" width="1500">
+<img src="https://user-images.githubusercontent.com/111955215/186901257-de1eb4d5-68ac-4e3c-b686-37e942c0420e.png" width="800">
 </div>
 
 ### 区别Z-DNA和Spiegelmers
