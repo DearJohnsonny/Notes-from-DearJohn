@@ -51,10 +51,13 @@ AAV 包装过程中，包装质粒负责编码目的基因以及两个末端反�
 #### mRNA/LNP作用机制
 入胞前，阳离子脂质可实现与带负电荷的mRNA分子静电络合，形成复合体，提高mRNA分子的稳定性。mRNA/LNP到达细胞膜时，阳离子磷脂与带负电荷的细胞膜触发膜融合，细胞膜去稳定化，促进mRNA分子的递送。内化进入细胞后，随着含有多种水解酶的溶酶体分解外源和外源大分子，pH值降低形成偏酸环境，使可离子化的脂质质子化，LNP的双层结构遭受破坏，释放mRNA，按照“中心法则”与负责生产蛋白的核糖体结合，翻译成病毒蛋白，即抗体，中和病毒。
 
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/186910701-a02fce70-943d-4d4b-ac20-da44e4317735.png" width="600">
+</div>
 ### 外泌体
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/186910701-a02fce70-943d-4d4b-ac20-da44e4317735.png" width="600">
+<img src="https://user-images.githubusercontent.com/111955215/186913346-99cd16d5-4270-4c23-869c-c50f6ede1716.png" width="600">
 </div>
 
 ## Z-DNA
