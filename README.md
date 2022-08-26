@@ -36,7 +36,7 @@ shRNA是可以克隆至表达载体并表达双链siRNA的RNA分子，包括两�
 
 * RNA降解机制：通过招募RNase H1或Argonaute 2(Ago 2)降解RNA
  
-![image](https://user-images.githubusercontent.com/111955215/186810216-8370f44b-56a0-4656-a9c3-cc16f2d708f8.png)
+![image](https://user-images.githubusercontent.com/111955215/186810609-721a4f4b-a844-4c1e-9fa2-e89e4e219783.png)
 * 抵抗miRNA的降解：通过与miRNA形成base pair抵抗其降解作用，此机制为上调
 
 ## 细胞衰老
