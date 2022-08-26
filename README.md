@@ -86,12 +86,10 @@ Z-DNA是具有未成熟生物膜的eDNA的主要结构形式，B-DNA是形成Z-D
 
 #### miRNA
 miRNA一般指micro RNA。MicroRNA (miRNA) 是一类由内源基因编码的长度约为19-24nt的非编码单链RNA分子，它们在动植物中参与转录后基因表达调控。miRNA通常位于基因间（intergenic）或位于内含子（intronic)区域，因此普遍认为它并作为编码其他类型基因的一部分而被转录，这些小分子RNA通过碱基配对与靶mRNA序列的3'UTR区或编码区结合，剪切靶基因的转录产物或者抑制转录产物的翻译，从而调控基因的表达。
-
-![image](https://user-images.githubusercontent.com/111955215/186809104-4e6b0834-5fa8-4161-9a09-b0fb8ba2174a.png)
 #### shRNA
 从结构上看shRNA和miRNA更相似，事实上shRNA在功能上与siRNA更接近。shRNA在细胞内被Dicer酶切割后形成siRNA，通过siRNA途径行使干扰功能，而miRNA则是通过另一条不同的途径调控目标基因。
 shRNA实际上是通过载体构建在体内获取siRNA的一种方式，两者结构本质上是相同的，但在功能上有所差异。
-shRNA是可以克隆至表达载体并表达双链siRNA的RNA分子，包括两个短反向重复序列，中间由一茎环序列分隔，形成发夹结构，由polⅢ启动子控制。相对于siRNA，shRNA在细胞核中合成，进一步加工并运输到细胞质中，然后进入RISC发挥活性。miRNA的合成与成熟研究为shRNA的合成，特别是基于miR-30的shRNA的合成提供了基础。![image](https://user-images.githubusercontent.com/111955215/186809372-15fc2a60-e036-498d-ad68-a621ed7c9373.png)
+shRNA是可以克隆至表达载体并表达双链siRNA的RNA分子，包括两个短反向重复序列，中间由一茎环序列分隔，形成发夹结构，由polⅢ启动子控制。相对于siRNA，shRNA在细胞核中合成，进一步加工并运输到细胞质中，然后进入RISC发挥活性。miRNA的合成与成熟研究为shRNA的合成，特别是基于miR-30的shRNA的合成提供了基础。
 
 ![image](https://user-images.githubusercontent.com/111955215/186809306-52a2795f-dcab-4c7e-b98a-04efbba9b2a0.png)
 ### ASO反义核苷酸药物
