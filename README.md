@@ -230,8 +230,17 @@ DDR发挥检查点功能来阻断细胞周期，如果DNA损伤持续存在，�
 
 ## 免疫检查点/immune checkpoint
 ### PD-1/PD-L1
-* **The difference between PD-1 and PD-L1**: 在实际试验中，人们发现达到同样的抑制效果PD-L1的剂量必须非常高，这就导致PD-L1的成本远远高于PD-1。PD1的剂量，大家差不多就是200mg 3周注射一次；PD-L1的剂量，阿斯利康的PDL1 Durvalumab剂量是1500mg 4周一次，故一旦药物价格面临着下行压力，PD-L1商业化价值远远低于PD1。
-* PD-1和PD-L1现在存在的问题： 其实除了成本难以下降之外，PD-1的给药方式还是以静脉给药为主，每2~3周一次，虽然现在纳米抗体可以实现皮下注射，但是易用性远不及口服小分子药物。患者依从性：口服＞皮下注射＞静脉注射
+![image](https://user-images.githubusercontent.com/111955215/186914841-7a873cf3-b747-4e3b-8e2b-1f375d6ae6bd.png)
+
+![image](https://user-images.githubusercontent.com/111955215/186914892-cedea0fb-e486-4835-935b-71d913d1ff47.png)
+
+![image](https://user-images.githubusercontent.com/111955215/186914950-2f9e4484-2876-4ff6-adbf-c55163f808b2.png)
+
+#### The difference between PD-1 and PD-L1
+在实际试验中，人们发现达到同样的抑制效果PD-L1的剂量必须非常高，这就导致PD-L1的成本远远高于PD-1。PD1的剂量，大家差不多就是200mg 3周注射一次；PD-L1的剂量，阿斯利康的PDL1 Durvalumab剂量是1500mg 4周一次，故一旦药物价格面临着下行压力，PD-L1商业化价值远远低于PD1。
+
+#### PD-1和PD-L1现在存在的问题
+其实除了成本难以下降之外，PD-1的给药方式还是以静脉给药为主，每2~3周一次，虽然现在纳米抗体可以实现皮下注射，但是易用性远不及口服小分子药物。患者依从性：口服＞皮下注射＞静脉注射
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/186900623-5a9379c2-0ac2-4e66-ba1e-5c6122d84fc8.png" width="1500">
