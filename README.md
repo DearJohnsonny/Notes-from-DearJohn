@@ -8,11 +8,14 @@ Biotech Notes from DearJohn
 |abc|bcd|cde|
 |abc|bcd|cde|
 ## 核酸药物
-### 基因沉默
+### 基因沉默药物如miRNA siRNA和shRNA
 #### miRNA和siRNA的比较
 ![image](https://user-images.githubusercontent.com/111955215/186809018-39a19a3c-2eae-43ff-9523-faec9612732c.png)
 
 ![image](https://user-images.githubusercontent.com/111955215/186809044-491d59a9-9387-4b32-9b84-8f2f25239eb5.png)
+
+![image](https://user-images.githubusercontent.com/111955215/186809431-2860f56a-a437-4b94-95e5-2d794df12e98.png)
+
 #### miRNA
 miRNA一般指micro RNA。MicroRNA (miRNA) 是一类由内源基因编码的长度约为19-24nt的非编码单链RNA分子，它们在动植物中参与转录后基因表达调控。miRNA通常位于基因间（intergenic）或位于内含子（intronic)区域，因此普遍认为它并作为编码其他类型基因的一部分而被转录，这些小分子RNA通过碱基配对与靶mRNA序列的3'UTR区或编码区结合，剪切靶基因的转录产物或者抑制转录产物的翻译，从而调控基因的表达。
 
@@ -23,6 +26,18 @@ shRNA实际上是通过载体构建在体内获取siRNA的一种方式，两者�
 shRNA是可以克隆至表达载体并表达双链siRNA的RNA分子，包括两个短反向重复序列，中间由一茎环序列分隔，形成发夹结构，由polⅢ启动子控制。相对于siRNA，shRNA在细胞核中合成，进一步加工并运输到细胞质中，然后进入RISC发挥活性。miRNA的合成与成熟研究为shRNA的合成，特别是基于miR-30的shRNA的合成提供了基础。![image](https://user-images.githubusercontent.com/111955215/186809372-15fc2a60-e036-498d-ad68-a621ed7c9373.png)
 
 ![image](https://user-images.githubusercontent.com/111955215/186809306-52a2795f-dcab-4c7e-b98a-04efbba9b2a0.png)
+### ASO反义核苷酸药物
+反义寡核苷酸(ASOs)被定义为化学合成的寡核苷酸，通常长度为12-30个核苷酸，目的是通过Watson-crick碱基配对规则与RNA结合。
+![image](https://user-images.githubusercontent.com/111955215/186809553-4536089e-8f7c-4394-b43c-3b0f0409740c.png)
+
+* 占位机制：通过与细胞核内的pre-mRNA互补，导致poly-A的尾不能正常形成或剪接成熟不能进行；通过与细胞核外的成熟mRNA结合，导致其翻译不能正常进行
+
+![image](https://user-images.githubusercontent.com/111955215/186810198-feeab0e5-b548-4c7f-8d9b-efdec47122e0.png)
+
+* RNA降解机制：通过招募RNase H1或Argonaute 2(Ago 2)降解RNA
+ 
+![image](https://user-images.githubusercontent.com/111955215/186810216-8370f44b-56a0-4656-a9c3-cc16f2d708f8.png)
+* 抵抗miRNA的降解：通过与miRNA形成base pair抵抗其降解作用，此机制为上调
 
 ## 细胞衰老
 ### 细胞衰老的标志
