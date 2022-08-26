@@ -57,7 +57,7 @@ AAV 包装过程中，包装质粒负责编码目的基因以及两个末端反�
 
 ## Z-DNA
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/186901257-de1eb4d5-68ac-4e3c-b686-37e942c0420e.png" width="800">
+<img src="https://user-images.githubusercontent.com/111955215/186901257-de1eb4d5-68ac-4e3c-b686-37e942c0420e.png" width="600">
 </div>
 
 ### 区别Z-DNA和Spiegelmers
