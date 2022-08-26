@@ -6,6 +6,10 @@ Biotech Notes from DearJohn
 <img src="https://user-images.githubusercontent.com/111955215/186898614-eb2f6796-7eca-482b-98a2-c0416ea47912.png" width="1500">
 </div>
 
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/186899924-ca162588-0fcb-40eb-90b4-8bb6bd1f97d5.png" width="1500">
+</div>
+
 ## 常用的工具
 <a href="http://www.unafold.org/mfold/applications/rna-folding-form.php">RNA和DNA的二级结构预测及结果打印</a>
 
