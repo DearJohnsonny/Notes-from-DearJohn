@@ -1,6 +1,7 @@
 Biotech Notes from DearJohn
 =====
 <a href="网址">uzi yyds</a>
+<img src="" width="500">
 ## 常用的工具
 <a href="http://www.unafold.org/mfold/applications/rna-folding-form.php">RNA和DNA的二级结构预测及结果打印</a>
 
@@ -12,7 +13,6 @@ Biotech Notes from DearJohn
 |abc|bcd|cde|
 |abc|bcd|cde|
 
-<img src="" width="500">
 ----------
 ## 甲基化
 ### DNA甲基化
