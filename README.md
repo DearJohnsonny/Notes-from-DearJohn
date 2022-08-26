@@ -11,7 +11,24 @@ Biotech Notes from DearJohn
 <a href="http://www.unafold.org/mfold/applications/rna-folding-form.php">RNA和DNA的二级结构预测及结果打印</a>
 
 <a href="https://www.jingege.wang/bioinformatics/gene_alias.html">人类基因数据库及其编号</a>
+
 ----------
+## Z-DNA
+![image](https://user-images.githubusercontent.com/111955215/186901257-de1eb4d5-68ac-4e3c-b686-37e942c0420e.png)
+### 区别Z-DNA和Spiegelmers
+* Z-DNA都是D型核苷酸组成的，而Spiegelmers的单体就是L型核苷酸
+* Z-DNA是天然存在于人体及细菌界中的，而Spiegelmers是人工合成的
+* 两者都能通过与canonical的核酸差异而产生一定的原有的核酸酶抗性
+### Z-DNA与微生物的胞膜形成
+Z-DNA是具有未成熟生物膜的eDNA的主要结构形式，B-DNA是形成Z-DNA的eDNA库。抗核酸酶的Z-DNA，对维持细菌生物膜的稳定性至关重要；为了将Z-DNA转化为B-DNA，作者使用了DNA插入剂氯喹，它可以防止Z-DNA的形成；相反：多价阳离子或高离子强度（CeCl3，氯化铈）也能促进B-DNA向Z-DNA转化
+### Z-DNA结合蛋白与中暑的关系
+在heatstress的环境下培养细胞发现会促使细胞的**RIPK3**和**MLKL**的磷酸化；hotstress的环境下培养还会造成凝血酶的增多、血小板的增多、纤维蛋白的沉积还有血管微循环的闭塞，而敲除RIPK3基因后上述心血管不适减弱。实验证明ZBP-1是RIPK3的上游蛋白，可以激活RIPK3。
+病原体入侵——heatstress—— HSF1（heat shock transcription factor1 ）——ZBP-1——RIK3——MLKL——细胞坏死
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/186903974-a9ecf080-c8f7-4b55-8ace-ee7c53d45b54.png" width="1500">
+</div>
+
 ## 甲基化
 ### DNA甲基化
 * **DNA甲基化只能发生在胞嘧啶C上**：即5-mC修饰。其机制为：**胞嘧啶C的5位碳原子**上可以被甲基化修饰，生成5-mC（5-甲基胞嘧啶）。DNA甲基化是在**DNA甲基转移酶**（DNA methyltransferase，DNMTs）的催化下进行的。该反应以**S-腺苷甲硫氨酸（SAM）为甲基供体**将胞嘧啶核苷酸第5位碳原子进行甲基化生成5-mC。
