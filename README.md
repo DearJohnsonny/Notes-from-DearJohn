@@ -142,6 +142,10 @@ Z-DNA是具有未成熟生物膜的eDNA的主要结构形式，B-DNA是形成Z-D
 
 ## 核酸药物
 ### 基因沉默药物如miRNA siRNA和shRNA
+#### 如何递送RNAi药物
+![image](https://user-images.githubusercontent.com/111955215/186915771-dc1be989-dd44-4e75-9b47-5d8927c1a85d.png)
+![image](https://user-images.githubusercontent.com/111955215/186915917-6b5af86f-4bd7-4521-83b0-b595ad181c69.png)
+
 #### miRNA和siRNA的比较
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/186809018-39a19a3c-2eae-43ff-9523-faec9612732c.png" width="1200">
