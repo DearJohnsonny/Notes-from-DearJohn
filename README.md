@@ -14,7 +14,10 @@ Biotech Notes from DearJohn
 
 ----------
 ## Z-DNA
-![image](https://user-images.githubusercontent.com/111955215/186901257-de1eb4d5-68ac-4e3c-b686-37e942c0420e.png)
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/186901257-de1eb4d5-68ac-4e3c-b686-37e942c0420e.png" width="1500">
+</div>
+
 ### 区别Z-DNA和Spiegelmers
 * Z-DNA都是D型核苷酸组成的，而Spiegelmers的单体就是L型核苷酸
 * Z-DNA是天然存在于人体及细菌界中的，而Spiegelmers是人工合成的
