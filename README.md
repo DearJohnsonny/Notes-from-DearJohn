@@ -6,9 +6,6 @@ Biotech Notes from DearJohn
 <img src="https://user-images.githubusercontent.com/111955215/186898614-eb2f6796-7eca-482b-98a2-c0416ea47912.png" width="1500">
 </div>
 
-<div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/186899924-ca162588-0fcb-40eb-90b4-8bb6bd1f97d5.png" width="1500">
-</div>
 
 ## 常用的工具
 <a href="http://www.unafold.org/mfold/applications/rna-folding-form.php">RNA和DNA的二级结构预测及结果打印</a>
@@ -54,6 +51,10 @@ Biotech Notes from DearJohn
 
 ![image](https://user-images.githubusercontent.com/111955215/186892195-b09d37a3-157d-4403-8539-b410d3f078e7.png)
 
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/186898614-eb2f6796-7eca-482b-98a2-c0416ea47912.png" width="1500">
+</div>
+
 ## 核酸药物
 ### 基因沉默药物如miRNA siRNA和shRNA
 #### miRNA和siRNA的比较
@@ -90,6 +91,10 @@ shRNA是可以克隆至表达载体并表达双链siRNA的RNA分子，包括两�
 ![image](https://user-images.githubusercontent.com/111955215/186810609-721a4f4b-a844-4c1e-9fa2-e89e4e219783.png)
 * 抵抗miRNA的降解：通过与miRNA形成base pair抵抗其降解作用，此机制为上调
 
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/186899924-ca162588-0fcb-40eb-90b4-8bb6bd1f97d5.png" width="1500">
+</div>
+
 ## 细胞衰老
 ### 细胞衰老的标志
 * **衰老相关-β-半乳糖苷酶的表达**(senescence-associated-β-galactosidase，SA-β-gal)：一种溶酶体酶。该标记物在大多数衰老细胞中可通过组织化学染色检测到，而在未衰老的，静息的或永生的和转化的细胞中一般不存在
@@ -107,6 +112,11 @@ DDR发挥检查点功能来阻断细胞周期，如果DNA损伤持续存在，�
 由于标准的DNA复制程序无法完全复制染色体DNA末端，在没有端粒维持机制的情况下，如端粒酶的表达或端粒之间的重组，端粒随着每一轮DNA复制而缩短。在一定长度以下，端粒封闭因子或保护结构的丢失使端粒非常短，类似于单端DSBs，从而触发与DNA DSBs触发的DDR非常相似的DDR
 
 <a href="https://www.jingege.wang/2022/02/26/nature/">其他的衰老相关的问题可以看这个汉化版的Nature综述</a>
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/186900304-00185b3f-14e7-4137-ab71-f8fad9ddfcc1.png" width="1500">
+</div>
+
 ## 靶向蛋白降解
 可以分为溶酶体途径和泛素蛋白酶体途径，前者主要降解膜蛋白，后者主要降解细胞内蛋白
 ### 泛素蛋白酶体途径
@@ -131,10 +141,19 @@ DDR发挥检查点功能来阻断细胞周期，如果DNA损伤持续存在，�
 
 ![image](https://user-images.githubusercontent.com/111955215/186657989-5cf6e6b1-a979-4be7-8ab5-646861051d56.png)
 
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/186900444-cc8bd421-ec01-48f2-ae78-45a6743c7b8e.png" width="1500">
+</div>
+
 ## 免疫检查点/immune checkpoint
 ### PD-1/PD-L1
 * **The difference between PD-1 and PD-L1**: 在实际试验中，人们发现达到同样的抑制效果PD-L1的剂量必须非常高，这就导致PD-L1的成本远远高于PD-1。PD1的剂量，大家差不多就是200mg 3周注射一次；PD-L1的剂量，阿斯利康的PDL1 Durvalumab剂量是1500mg 4周一次，故一旦药物价格面临着下行压力，PD-L1商业化价值远远低于PD1。
 * PD-1和PD-L1现在存在的问题： 其实除了成本难以下降之外，PD-1的给药方式还是以静脉给药为主，每2~3周一次，虽然现在纳米抗体可以实现皮下注射，但是易用性远不及口服小分子药物。患者依从性：口服＞皮下注射＞静脉注射
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/186900623-5a9379c2-0ac2-4e66-ba1e-5c6122d84fc8.png" width="1500">
+</div>
+
 ## crispr系统
 ![image](https://user-images.githubusercontent.com/111955215/186565886-532b4a7d-0b7d-44d2-8946-e009b7f0e908.png)
 
@@ -181,6 +200,11 @@ Oligo粘合之后，应该长成下图这样：
 <a href="https://www.jingege.wang/2020/05/29/crispr-cas9-sgrna%e8%ae%be%e8%ae%a1%e5%92%8c%e8%bd%bd%e4%bd%93%e6%9e%84%e5%bb%ba/">CRISPR-Cas9 sgRNA设计和载体构建</a>
 
 <a href="https://zhuanlan.zhihu.com/p/34561875">CRISPR sgRNA Oligo设计_知乎</a>
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/186900804-41616c82-57db-4bfd-af7a-fcd2b3e2f012.png" width="1500">
+</div>
+
 ## Phage Display
 噬菌体展示技术有多种分类标准。根据噬菌体的不同，可以分为M13、T7、T4、λ等多种体系；根据载体的不同，可以分为噬菌体载体（True Phage）和噬菌粒载体（Phagemid）；根据文库的不同，可以分为随机肽库、cDNA文库、抗体文库、蛋白质文库等。
 抗体库的筛选是指从抗体库中筛选出针对某一抗原的特异性抗体，是获得高亲和力抗体过程中的关键环节。单克隆抗体性质存在千差万别，需根据不同的单抗制定严格的筛选条件，一般分为经典筛选法和新型筛选法。
