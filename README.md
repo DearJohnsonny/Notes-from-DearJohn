@@ -32,9 +32,18 @@ Biotech Notes from DearJohn
 
 ![image](https://user-images.githubusercontent.com/111955215/186891151-77696008-1068-4db5-b9c8-20763f93ade3.png)
 
-* 机制三：通过甲基化控制转座子的表达，如果转座子成功表达，会导致产生RNA-DNA杂合双链，从而导致细胞严重，致使肿瘤坏死。
+* 机制三：通过甲基化控制转座子的表达，如果转座子成功表达，会导致产生RNA-DNA杂合双链，从而导致细胞严重坏死，致使肿瘤。
 
 ![image](https://user-images.githubusercontent.com/111955215/186891221-1e7e0636-7176-4f9b-b68c-bdc5a1039b8d.png)
+#### DNA甲基化和基因沉默
+* 	DNA甲基化干扰转录因子对DNA元件的识别与结合；
+* 	序列特异性的甲基化DNA结合蛋白与启动子区甲基化CpG岛结合，募集组蛋白去乙酰化酶（HDAC），形成转录抑制复合物，阻止转录因子与启动子区靶序列的结合，从而影响基因的转录；
+* 	DNA甲基化通过改变染色质结构抑制基因表达，启动子的高甲基化可导致染色质结构更加紧密进而转录失活。
+
+![image](https://user-images.githubusercontent.com/111955215/186892133-11721996-a777-470e-972e-b3a87c5df254.png)
+
+![image](https://user-images.githubusercontent.com/111955215/186892195-b09d37a3-157d-4403-8539-b410d3f078e7.png)
+
 ## 核酸药物
 ### 基因沉默药物如miRNA siRNA和shRNA
 #### miRNA和siRNA的比较
