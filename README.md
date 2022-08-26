@@ -1,7 +1,10 @@
 Biotech Notes from DearJohn
 =====
 <a href="网址">uzi yyds</a>
+
+<div align=center>
 <img src="" width="500">
+</div>
 ## 常用的工具
 <a href="http://www.unafold.org/mfold/applications/rna-folding-form.php">RNA和DNA的二级结构预测及结果打印</a>
 
@@ -53,9 +56,13 @@ Biotech Notes from DearJohn
 ## 核酸药物
 ### 基因沉默药物如miRNA siRNA和shRNA
 #### miRNA和siRNA的比较
-![image](https://user-images.githubusercontent.com/111955215/186809018-39a19a3c-2eae-43ff-9523-faec9612732c.png)
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/186809018-39a19a3c-2eae-43ff-9523-faec9612732c.png" width="1500">
+</div>
 
-![image](https://user-images.githubusercontent.com/111955215/186809044-491d59a9-9387-4b32-9b84-8f2f25239eb5.png)
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/186809044-491d59a9-9387-4b32-9b84-8f2f25239eb5.png" width="1500">
+</div>
 
 ![image](https://user-images.githubusercontent.com/111955215/186809431-2860f56a-a437-4b94-95e5-2d794df12e98.png)
 
