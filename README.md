@@ -66,6 +66,8 @@ Z-DNA是具有未成熟生物膜的eDNA的主要结构形式，B-DNA是形成Z-D
 </div>
 
 ![image](https://user-images.githubusercontent.com/111955215/186892195-b09d37a3-157d-4403-8539-b410d3f078e7.png)
+### RNA甲基化
+![image](https://user-images.githubusercontent.com/111955215/186906317-e1cb21a2-8ea9-448d-b46c-6f6d5984fab8.png)
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/186898614-eb2f6796-7eca-482b-98a2-c0416ea47912.png" width="1500">
