@@ -18,7 +18,7 @@ Biotech Notes from DearJohn
 ### DNA甲基化
 * **DNA甲基化只能发生在胞嘧啶C上**：即5-mC修饰。其机制为：**胞嘧啶C的5位碳原子**上可以被甲基化修饰，生成5-mC（5-甲基胞嘧啶）。DNA甲基化是在**DNA甲基转移酶**（DNA methyltransferase，DNMTs）的催化下进行的。该反应以**S-腺苷甲硫氨酸（SAM）为甲基供体**将胞嘧啶核苷酸第5位碳原子进行甲基化生成5-mC。
 
-<img src="https://user-images.githubusercontent.com/111955215/186895165-37ffcb12-52f2-444c-a401-e85c0613d604.png" width="480">
+<img src="https://user-images.githubusercontent.com/111955215/186895165-37ffcb12-52f2-444c-a401-e85c0613d604.png" width="480" align=center>
 
 5-mC可以后续被TET家族双加氧酶氧化，依次生成5-hmC、5-fC、5-caC，5-caC进而可以通过TDG等途径被转化为没有修饰的C，从而完成整个甲基化修饰的循环：
 
