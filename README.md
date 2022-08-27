@@ -23,10 +23,17 @@ Biotech Notes from DearJohn
 </div>
 
 #### 搭载药物同时外嵌靶头
+外侧嵌合一个可以靶向肿瘤细胞的靶头，纳米结构内部包含杀伤肿瘤的药物，起一个递送药物的作用，减少脱靶效应
+
 ![image](https://user-images.githubusercontent.com/111955215/187017170-e21f6284-319d-4cd2-af25-ab87915f3375.png)
 
 #### 构建免疫反应触发体
+CpG不是CpG岛而是一小段核酸：The vertebrate immune system has the ability to recognize thepresence  of  bacterial  DNA  on  the  basis  of  recognition  ofso-called   CpG   motifs,   unmethylated   cytidine-guanosinedinucleotides within a specific pattern of f lanking bases .
 ![image](https://user-images.githubusercontent.com/111955215/187017176-d890eb39-295d-47a2-8654-f15bbed96fd9.png)
+
+#### 诊断和成像的作用
+进入细胞之后通过特定的结合（如pepper这种aptamer的结合之后产生荧光），帮助诊断
+![image](https://user-images.githubusercontent.com/111955215/187017279-f4440167-2194-4557-b93f-3d0edef20804.png)
 
 
 <div align=center>
