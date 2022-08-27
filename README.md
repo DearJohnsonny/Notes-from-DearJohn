@@ -11,6 +11,34 @@ Biotech Notes from DearJohn
 <a href="http://www.unafold.org/mfold/applications/rna-folding-form.php">RNA和DNA的二级结构预测及结果打印</a>
 
 <a href="https://www.jingege.wang/bioinformatics/gene_alias.html">人类基因数据库及其编号</a>
+
+## 干扰素通路
+### TLR受体
+在人体免疫细胞表面有一类识别病毒及细菌等病原体的受体（PRR），识别内容是病原微生物的核酸或是细胞膜成分等，这是细胞抵御病原体入侵的第一道防线。研究发现，这类受体（PRR）主要是Toll 样受体(TLRs)，目前已发现11个 TLR 家族成员，其中 TLR1、TLR2、TLR4、TLR5、TLR6 和 TLR11 位于细胞表面，而 TLR3、TLR7、TLR8 和 TLR9 位于内体/溶酶体部分。大家都比较清楚，病毒的主要结构是遗传物质DNA或者RNA及包膜蛋白，TLR3 and TLR7/8能特异性识别病毒RNA，TLR9识别病毒的CpG-DNA。
+![image](https://user-images.githubusercontent.com/111955215/187031388-43e5de37-038a-4a19-b975-06f9cf679f13.png)
+
+### 关键的转录因子NF-kB和IRF3
+在STING发现以前，大量的研究已经表明两类重要的转录因子（transcription factors），一个是NF-kB，另一个是IRF3，这两个转录因子都能在病毒入侵时诱导一系列基因表达谱发生改变以产生病毒抵抗。其中，NF-KB主要是诱导促炎性细胞因子表达，而IRF3主 要是诱导I型干扰素表达。
+
+![image](https://user-images.githubusercontent.com/111955215/187031426-6db043db-58a2-4d0d-bf66-5cdb2742368d.png)
+
+后来发现：STING是TBK1/IRF3的上游，STING定位于内质网膜，并且激活NF-κB和IRF3下游信号通路，在抗病毒免疫中发挥关键作用
+
+![image](https://user-images.githubusercontent.com/111955215/187031503-d0a0d1fe-0b55-4cf0-a5cb-bfc60198601e.png)
+
+### dsDNA和病毒的干扰素通路
+![image](https://user-images.githubusercontent.com/111955215/187031446-3ffe9375-bdbb-438f-80bc-93f36683ac5a.png)
+
+### 干扰素作用机制
+三种干扰素的受体激活机制及受体-配体复合物组成：
+![image](https://user-images.githubusercontent.com/111955215/187031492-5cce00fa-e0d4-4a14-b9aa-9f00a0fcb8a4.png)
+
+### 干扰素作用途径
+![image](https://user-images.githubusercontent.com/111955215/187031522-216d846f-cc64-4f6d-b897-486f6df023b0.png)
+
+
+![cosmic_dance_between_order_and_chaos_by_artdiffuser_dfacqht](https://user-images.githubusercontent.com/111955215/187031359-4b8874c3-d70d-4a1c-87b4-ad8469f6c41c.png)
+
 ## 外源性DNA抗性机制
 哺乳动物体内主要有三种针对外来DNA的免疫反应：TLR9（Toll-like receptor 9）引发、AIM2（absent in melanoma 2）和cyclic GMP–AMP synthase (cGAS)途径。
 ### TLR9通路
