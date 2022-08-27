@@ -11,6 +11,13 @@ Biotech Notes from DearJohn
 <a href="http://www.unafold.org/mfold/applications/rna-folding-form.php">RNA和DNA的二级结构预测及结果打印</a>
 
 <a href="https://www.jingege.wang/bioinformatics/gene_alias.html">人类基因数据库及其编号</a>
+## 细胞凋亡
+### 
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/187030764-5aca726d-1787-4fe8-bcfd-289b144ab582.jpg" width="1500">
+</div>
+
 ## DNA纳米技术
 ### 应用
 #### 组织engineering
