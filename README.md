@@ -47,6 +47,9 @@ cyclic GMP–AMP synthase的激活导致GMP和AMP成环，形成cyclic GMP–AMP
 #### 构建免疫反应触发体
 CpG不是CpG岛而是一小段核酸：The vertebrate immune system has the ability to recognize thepresence  of  bacterial  DNA  on  the  basis  of  recognition of so-called CpG   motifs, unmethylated cytidine-guanosinedinucleotides within a specific pattern of flanking bases.
 
+CpG-DNA是一类以CpG二核苷酸为核心的未甲基化的特殊DNA序列，可以激活免疫活性细胞产生多种细胞因子。
+研究发现，细菌DNA具有20折叠的高频率未甲基化的CG二核苷酸，可引起急性炎症反应，通过对细菌DNA和脊椎动物DNA的对比发现，CpG-DNA引起的细胞激活经由Toll/IL-1R信号通路发生。TLR9是CpG-DNA受体的一个重要组成，直接和CpG-DNA结合。合成的Oligo脱氧核苷（ODN）包含特有的CpG-DNA以达到模仿细菌DNA的免疫刺激效果，还能影响免疫耐受和自身免疫性疾病。CpG-DNA应用广泛，在肿瘤治疗、提高机体免疫力和抗寄生虫等方面都有应用。
+
 ![image](https://user-images.githubusercontent.com/111955215/187017176-d890eb39-295d-47a2-8654-f15bbed96fd9.png)
 
 #### 细胞内诊断和成像的作用
