@@ -175,7 +175,7 @@ Z-DNA是具有未成熟生物膜的eDNA的主要结构形式，B-DNA是形成Z-D
 ![image](https://user-images.githubusercontent.com/111955215/186906317-e1cb21a2-8ea9-448d-b46c-6f6d5984fab8.png)
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/186898614-eb2f6796-7eca-482b-98a2-c0416ea47912.png" width="1500">
+<img src="https://user-images.githubusercontent.com/111955215/187030542-76a9b49b-9d59-407b-88fd-05ae8596a5f3.jpg" width="1500">
 </div>
 
 ## 核酸药物
