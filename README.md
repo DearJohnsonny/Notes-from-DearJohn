@@ -39,7 +39,7 @@ Biotech Notes from DearJohn
 ![image](https://user-images.githubusercontent.com/111955215/187031522-216d846f-cc64-4f6d-b897-486f6df023b0.png)
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/187031359-4b8874c3-d70d-4a1c-87b4-ad8469f6c41c.png" width="300">
+<img src="https://user-images.githubusercontent.com/111955215/187031359-4b8874c3-d70d-4a1c-87b4-ad8469f6c41c.png" width="1500">
 </div>
 
 ## 外源性DNA抗性机制
