@@ -11,8 +11,18 @@ Biotech Notes from DearJohn
 <a href="http://www.unafold.org/mfold/applications/rna-folding-form.php">RNA和DNA的二级结构预测及结果打印</a>
 
 <a href="https://www.jingege.wang/bioinformatics/gene_alias.html">人类基因数据库及其编号</a>
-## 细胞凋亡
-### 
+## 外源性DNA抗性机制
+哺乳动物体内主要有三种针对外来DNA的免疫反应：TLR9（Toll-like receptor 9）引发、AIM2（absent in melanoma 2）和cyclic GMP–AMP synthase (cGAS)途径。
+### TLR9通路
+TLR9位于内体膜，主要感应CpG岛高度甲基化的DNA，然后激活转录因子NF-κB（nuclear factor-κB），IRF7（interferon regulatory factor 7）从而导致编码炎症细胞因子和干扰素的基因高表达。
+
+![image](https://user-images.githubusercontent.com/111955215/187030875-8f329103-0dce-4008-b7c6-c54f537ecb13.png)
+### AIM2通路
+AIM2和细胞质的双链DNA结合，导致AIM2炎症小体的形成，激活caspase1和IL-1β和IL-18的释放，最后导致细胞死亡。
+### cGAS-STING通路
+cyclic GMP–AMP synthase的激活导致GMP和AMP成环，形成cyclic GMP–AMP，这个第二信使会和STING蛋白结合，调控其活性，导致TBK1（TANK-binding kinase 1） ，TBK1会导致STING和 IRF3的磷酸化从而激活，最后使得一型干扰素高表达。STING的激活同时会导致NF-κB的激活，NF-κB激活既会促进一型干扰素的表达，也会促进IL-6和TNF的产生。
+
+![image](https://user-images.githubusercontent.com/111955215/187030932-e0f499eb-2c64-4e0e-bbe2-e1d4a2219093.png)
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/187030764-5aca726d-1787-4fe8-bcfd-289b144ab582.jpg" width="1500">
@@ -35,7 +45,7 @@ Biotech Notes from DearJohn
 ![image](https://user-images.githubusercontent.com/111955215/187017170-e21f6284-319d-4cd2-af25-ab87915f3375.png)
 
 #### 构建免疫反应触发体
-CpG不是CpG岛而是一小段核酸：The vertebrate immune system has the ability to recognize thepresence  of  bacterial  DNA  on  the  basis  of  recognition  ofso-called   CpG   motifs,   unmethylated   cytidine-guanosinedinucleotides within a specific pattern of flanking bases .
+CpG不是CpG岛而是一小段核酸：The vertebrate immune system has the ability to recognize thepresence  of  bacterial  DNA  on  the  basis  of  recognition of so-called CpG   motifs, unmethylated cytidine-guanosinedinucleotides within a specific pattern of flanking bases.
 
 ![image](https://user-images.githubusercontent.com/111955215/187017176-d890eb39-295d-47a2-8654-f15bbed96fd9.png)
 
