@@ -11,6 +11,27 @@ Biotech Notes from DearJohn
 <a href="http://www.unafold.org/mfold/applications/rna-folding-form.php">RNA和DNA的二级结构预测及结果打印</a>
 
 <a href="https://www.jingege.wang/bioinformatics/gene_alias.html">人类基因数据库及其编号</a>
+## DNA纳米技术
+### 应用
+#### 组织engineering
+![image](https://user-images.githubusercontent.com/111955215/187016831-173aa1f1-a02b-4e41-a942-5b1d2f8fc856.png)
+#### 辅助核酸递送
+如果直接递送核酸（如质粒、ssDNA和ssRNA），可能会被溶酶体降解；但是如果搭配一些纳米材料则可以减少上述情况的发生
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/187016994-48d5eeb1-a73a-4a03-83ca-d0df0f28291b.png" width="1500">
+</div>
+
+#### 搭载药物同时外嵌靶头
+![image](https://user-images.githubusercontent.com/111955215/187017170-e21f6284-319d-4cd2-af25-ab87915f3375.png)
+
+#### 构建免疫反应触发体
+![image](https://user-images.githubusercontent.com/111955215/187017176-d890eb39-295d-47a2-8654-f15bbed96fd9.png)
+
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/187016796-b39a386b-25ca-4ad7-bc21-8d6b9aaf92b4.png" width="1500">
+</div>
 
 ## 关于核酸药物的递送
 ### AVV
