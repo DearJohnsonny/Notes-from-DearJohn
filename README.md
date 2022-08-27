@@ -38,8 +38,9 @@ Biotech Notes from DearJohn
 ### 干扰素作用途径
 ![image](https://user-images.githubusercontent.com/111955215/187031522-216d846f-cc64-4f6d-b897-486f6df023b0.png)
 
-
-![cosmic_dance_between_order_and_chaos_by_artdiffuser_dfacqht](https://user-images.githubusercontent.com/111955215/187031359-4b8874c3-d70d-4a1c-87b4-ad8469f6c41c.png)
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/187031359-4b8874c3-d70d-4a1c-87b4-ad8469f6c41c.png" width="300">
+</div>
 
 ## 外源性DNA抗性机制
 哺乳动物体内主要有三种针对外来DNA的免疫反应：TLR9（Toll-like receptor 9）引发、AIM2（absent in melanoma 2）和cyclic GMP–AMP synthase (cGAS)途径。
