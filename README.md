@@ -29,12 +29,22 @@ Biotech Notes from DearJohn
 
 #### 构建免疫反应触发体
 CpG不是CpG岛而是一小段核酸：The vertebrate immune system has the ability to recognize thepresence  of  bacterial  DNA  on  the  basis  of  recognition  ofso-called   CpG   motifs,   unmethylated   cytidine-guanosinedinucleotides within a specific pattern of flanking bases .
+
 ![image](https://user-images.githubusercontent.com/111955215/187017176-d890eb39-295d-47a2-8654-f15bbed96fd9.png)
 
-#### 诊断和成像的作用
+#### 细胞内诊断和成像的作用
 进入细胞之后通过特定的结合（如pepper这种aptamer的结合之后产生荧光），帮助诊断
+
 ![image](https://user-images.githubusercontent.com/111955215/187017279-f4440167-2194-4557-b93f-3d0edef20804.png)
 
+#### 病原体的检测
+如果病原体可以结合，就会将cDNA从珠子上顶替下来，然后对在溶液中的cDNA进行扩增，并切去引物，新得到的ssDNA可以组装成理想的纳米结构，并可以搭载荧光基团从而被检测到
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/187017443-58ff1729-bc33-4dfd-b991-aa7f7498eeca.png" width="1500">
+</div>
+
+<a href="https://www.sohu.com/a/482872459_121124715">其他纳米结构DNA辅助病原体检测的方法都在这</a>
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/187016796-b39a386b-25ca-4ad7-bc21-8d6b9aaf92b4.png" width="1500">
