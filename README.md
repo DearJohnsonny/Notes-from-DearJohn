@@ -25,7 +25,7 @@ Biotech Notes from DearJohn
 后来发现：STING是TBK1/IRF3的上游，STING定位于内质网膜，并且激活NF-κB和IRF3下游信号通路，在抗病毒免疫中发挥关键作用
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/187031503-d0a0d1fe-0b55-4cf0-a5cb-bfc60198601e.png" width="600">
+<img src="https://user-images.githubusercontent.com/111955215/187031503-d0a0d1fe-0b55-4cf0-a5cb-bfc60198601e.png" width="300">
 </div>
 
 ### dsDNA和病毒的干扰素通路
