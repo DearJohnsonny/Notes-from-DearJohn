@@ -28,7 +28,7 @@ Biotech Notes from DearJohn
 ![image](https://user-images.githubusercontent.com/111955215/187017170-e21f6284-319d-4cd2-af25-ab87915f3375.png)
 
 #### 构建免疫反应触发体
-CpG不是CpG岛而是一小段核酸：The vertebrate immune system has the ability to recognize thepresence  of  bacterial  DNA  on  the  basis  of  recognition  ofso-called   CpG   motifs,   unmethylated   cytidine-guanosinedinucleotides within a specific pattern of f lanking bases .
+CpG不是CpG岛而是一小段核酸：The vertebrate immune system has the ability to recognize thepresence  of  bacterial  DNA  on  the  basis  of  recognition  ofso-called   CpG   motifs,   unmethylated   cytidine-guanosinedinucleotides within a specific pattern of flanking bases .
 ![image](https://user-images.githubusercontent.com/111955215/187017176-d890eb39-295d-47a2-8654-f15bbed96fd9.png)
 
 #### 诊断和成像的作用
