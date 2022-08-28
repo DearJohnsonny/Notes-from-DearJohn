@@ -346,10 +346,11 @@ DNA target recognition requires both base pairing to the crRNA sequence and the 
 
 ![image](https://user-images.githubusercontent.com/111955215/187072595-a18aac54-cdcd-46a2-a06b-81debac643fa.png)
 
+天然的crispr系统和人工的区别：**人工的gRNA是连在一起的，可以用一条序列表达**
+
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/187072598-c0159446-7980-4fc5-af25-ed4975afad6d.png" width="800">
 </div>
-
 
 下图右中有俩启动子，可以用**U6启动gDNA，用EF-1a启动Cas9**
 
