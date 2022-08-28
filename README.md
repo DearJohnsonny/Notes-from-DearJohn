@@ -94,7 +94,7 @@ CpG-DNA是一类以CpG二核苷酸为核心的未甲基化的特殊DNA序列，�
 如果病原体可以结合，就会将cDNA从珠子上顶替下来，然后对在溶液中的cDNA进行扩增，并切去引物，新得到的ssDNA可以组装成理想的纳米结构，并可以搭载荧光基团从而被检测到
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/187017443-58ff1729-bc33-4dfd-b991-aa7f7498eeca.png" width="1500">
+<img src="https://user-images.githubusercontent.com/111955215/187017443-58ff1729-bc33-4dfd-b991-aa7f7498eeca.png" width="800">
 </div>
 
 <a href="https://www.sohu.com/a/482872459_121124715">其他纳米结构DNA辅助病原体检测的方法都在这</a>
