@@ -1,5 +1,7 @@
-Biotech Notes from DearJohn
+Notes from DearJohn
 =====
+<a href="https://dearjohnsonny.github.io/Notes-from-DearJohn-2/">Notes from DearJohn-2</a>
+
 <a href="http://eng.chinamil.com.cn/">待到秋来九月八，百花开尽我花杀</a>
 
 <div align=center>
