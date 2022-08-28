@@ -177,11 +177,27 @@ AAV 包装过程中，包装质粒负责编码目的基因以及两个末端反�
 * Z-DNA都是D型核苷酸组成的，而Spiegelmers的单体就是L型核苷酸
 * Z-DNA是天然存在于人体及细菌界中的，而Spiegelmers是人工合成的
 * 两者都能通过与canonical的核酸差异而产生一定的原有的核酸酶抗性
+
 ### Z-DNA与微生物的胞膜形成
 Z-DNA是具有未成熟生物膜的eDNA的主要结构形式，B-DNA是形成Z-DNA的eDNA库。抗核酸酶的Z-DNA，对维持细菌生物膜的稳定性至关重要；为了将Z-DNA转化为B-DNA，作者使用了DNA插入剂氯喹，它可以防止Z-DNA的形成；相反：多价阳离子或高离子强度（CeCl3，氯化铈）也能促进B-DNA向Z-DNA转化
-### Z-DNA结合蛋白与中暑的关系
+
+###  Z-DNA与细胞凋亡
+![image](https://user-images.githubusercontent.com/111955215/187074049-edf02329-a96f-4623-9d5a-ff2f34dc288b.png)
+
+#### Z-DNA结合蛋白与中暑的关系
 在heatstress的环境下培养细胞发现会促使细胞的**RIPK3**和**MLKL**的磷酸化；hotstress的环境下培养还会造成凝血酶的增多、血小板的增多、纤维蛋白的沉积还有血管微循环的闭塞，而敲除RIPK3基因后上述心血管不适减弱。实验证明ZBP-1是RIPK3的上游蛋白，可以激活RIPK3。
 病原体入侵——heatstress—— HSF1（heat shock transcription factor1 ）——ZBP-1——RIK3——MLKL——细胞坏死
+
+### 关于ADAR
+ADAR最初被发现是由于其具有将A→I的功能。
+ADAR1基因会转录出两个亚型：ADAR1 p150和ADAR1 p110。其中ADAR1 p110没有Zα结构域，这是ADAR1和Z-DNA/RNA结合的关键。
+![image](https://user-images.githubusercontent.com/111955215/187074083-747cbf5b-80eb-4c86-8265-2add374e8626.png)
+研究表明，人ZαADAR1 对 Z-DNA 具有高度的亲和性，而ZβADAR1对Z-DNA的亲和性很弱甚至不能与其结合。Zα结构域是和已经形成的Z-DNA结合，而不是通过诱导产生Z-DNA并与之结合。Zβ的功能尚且不太明确；Zα结构域除了特异性识别和结合 Z-DNA 外，也能与 Z-RNA 结合，结合机制基本一样。
+
+病毒感染后，通过对dsRNA的响应（MDA5蛋白识别dsRNA → MAVS蛋白被MDA5激活 → MAVS激活ISG），ISG转录增加；Interferon-stimulated genes (ISG)转录后，ADAR1 p150和一型干扰素被转录。
+而dsRNA的来源主要为转座子（人的基因组序列中一半以上为转座子产生的序列）。外源性基因（病毒基因）通过转座子随机整合到宿主细胞基因组内后（在进化的过程中多种病毒的dsRNA序列被转入人体，成为现在人基因组内高度保守的序列），利用宿主细胞进行转录时，常产生一些dsRNA。Alu SINE的序列占基因组中约10%，而Alu被ADAR编辑（即I→G，导致突变）。
+
+![image](https://user-images.githubusercontent.com/111955215/187074151-1de433e6-798e-42c1-8d29-4a2d87896c92.png)
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/186903974-a9ecf080-c8f7-4b55-8ace-ee7c53d45b54.png" width="1500">
