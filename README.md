@@ -127,12 +127,13 @@ AAV 包装过程中，包装质粒负责编码目的基因以及两个末端反�
 * 虽然目前AAV载体在眼科、肝脏等疾病方面实现了拉长给药间隔时间的目标，但是由于不整合到基因组，AAV无法随细胞进行复制从而被稀释，仍然存在需要重复给药的问题，尤其是在第一针注射AAV后，若产生免疫原性，将无法为病人提供第二次治疗，这将导致AAV很难做到对某一种疾病的终身治愈
 
 ### LNP
-适用于递送mRNA
+递送常规药物的LNP：
+
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/187108017-aa72a7df-61d7-4d41-9450-e45f70045ed4.png" width="700">
 </div>
 
-
+递送核酸药物的LNP：需要在内部添加一些带有正电的脂质以稳定负电性的核酸
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/187108491-5a72c008-71c2-410c-a094-f6d38447627c.png" width="700">
 </div>
