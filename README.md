@@ -132,7 +132,10 @@ AAV 包装过程中，包装质粒负责编码目的基因以及两个末端反�
 <img src="https://user-images.githubusercontent.com/111955215/187108017-aa72a7df-61d7-4d41-9450-e45f70045ed4.png" width="700">
 </div>
 
-![image](https://user-images.githubusercontent.com/111955215/186909686-a50cd20d-ea17-46ad-babd-53c90aff540e.png)
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/187108491-5a72c008-71c2-410c-a094-f6d38447627c.png" width="700">
+</div>
 #### 递送mRNA的优势
 首先明确递送mRNA的挑战：
 * mRNA带负电，而细胞膜也带负电，mRNA会因为静电排斥难以进入细胞
