@@ -160,9 +160,13 @@ AAV 包装过程中，包装质粒负责编码目的基因以及两个末端反�
 
 ![image](https://user-images.githubusercontent.com/111955215/186913676-917a2b00-59d7-4f36-95ae-bfc219c738a4.png)
 
+* Structure and composition of exosomes:
+
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/187108880-beea1d08-cb8b-4d57-8dfb-b38ca32f181c.png" width="700">
 </div>
+
+* **Surface engineering** of exosomes via genetic/biological manipulation or chemical modification:
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/187108939-b8a0ed7d-d221-4db6-bd1a-6caf7b2ad4e0.png" width="700">
