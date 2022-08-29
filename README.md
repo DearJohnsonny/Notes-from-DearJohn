@@ -159,6 +159,15 @@ AAV 包装过程中，包装质粒负责编码目的基因以及两个末端反�
 外泌体（exosome）是由细胞内多泡体(multivesicular body，MVB) 与细胞膜融合后，释放到细胞外基质中的膜性囊泡。几乎所有类型的细胞，都可以产生并释放外泌体。它是一种直径为30-100nm的纳米级脂质包裹体结构，内部包裹了蛋白、mRNA和microRNA等物质。外泌体天然存在于体液中，包括血液、唾液、尿液和母乳，被分泌出的外泌体会进入血液、唾液、尿液、及乳汁等体液中，通过循环系统到达其他细胞与组织，产生远程调控作用。
 
 ![image](https://user-images.githubusercontent.com/111955215/186913676-917a2b00-59d7-4f36-95ae-bfc219c738a4.png)
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/187108880-beea1d08-cb8b-4d57-8dfb-b38ca32f181c.png" width="700">
+</div>
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/187108939-b8a0ed7d-d221-4db6-bd1a-6caf7b2ad4e0.png" width="700">
+</div>
+
 #### 外泌体的应用
 将蛋白质转入细胞：
 
