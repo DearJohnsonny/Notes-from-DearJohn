@@ -112,6 +112,12 @@ CpG-DNA是一类以CpG二核苷酸为核心的未甲基化的特殊DNA序列，�
 <img src="https://user-images.githubusercontent.com/111955215/186907142-fc119948-ebc1-46cb-a628-7b30c7726cb7.png" width="600">
 </div>
 
+关于重组腺病毒载体递送药物：
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/187110462-5f60e3f2-6033-49c7-b788-0b41a540ec50.png" width="900">
+</div>
+
 #### AAV的作用机制
 AAV会和糖基化的细胞表面受体结合，并被吞入细胞内，形成初级内体，此后再形成次级内体。次级内体的AAV会被转运进入细胞核，并释放出DNA。
 
