@@ -75,11 +75,18 @@ DNA walker的动力学：
 
 ![image](https://user-images.githubusercontent.com/111955215/187816591-7a98e379-2701-409a-aba6-989fce4163a8.png)
 
-还可以用来解除二级结构：
+还可以用来解除二级结构——catalytic hairpin assembly (CHA)：
 
 ![image](https://user-images.githubusercontent.com/111955215/187821060-6dc24a9d-111f-45a5-a49e-bca622cea927.png)
 
+主要是通过荧光来进行检测，与beacon或者probe之类的结合：
+
 ![image](https://user-images.githubusercontent.com/111955215/187821054-aad323a9-501b-4c1e-a384-1b047a7b2fbf.png)
+
+下图也是：
+
+![image](https://user-images.githubusercontent.com/111955215/187821950-296e107a-db9c-4102-95b2-90e8c4c21571.png)
+
 
 #### 一些DNA walker的奇思妙想
 下图工作是为了检测溶酶体，通过与溶酶体的结合制备Y-WS并进一步制造出金纳米颗粒的toehold，并与Tt结合，从而释放出带有荧光的片段
