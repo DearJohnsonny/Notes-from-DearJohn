@@ -67,6 +67,10 @@ cyclic GMP–AMP synthase的激活导致GMP和AMP成环，形成cyclic GMP–AMP
 <img src="https://user-images.githubusercontent.com/111955215/187811782-7082eaf5-2574-44c5-bc73-9b9f0463944c.png" width="700">
 </div>
 
+DNA walker的动力学：
+
+![image](https://user-images.githubusercontent.com/111955215/187817008-36724bab-ad4e-4303-9884-70ccffe386ac.png)
+
 现在的DNA walker有以下几种类型
 
 ![image](https://user-images.githubusercontent.com/111955215/187816591-7a98e379-2701-409a-aba6-989fce4163a8.png)
