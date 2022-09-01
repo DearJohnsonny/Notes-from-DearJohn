@@ -63,11 +63,12 @@ cyclic GMP–AMP synthase的激活导致GMP和AMP成环，形成cyclic GMP–AMP
 ### DNA walker
 下面这个是2004年的原始文献，系统由4个部分组成：walker (W), track (T), attachment fuel strands (A), and detachment fuel strands(D)。D的作用是将两个已经形成双链的W解掉前一个双链。
 
-![image](https://user-images.githubusercontent.com/111955215/187813480-9b579df7-7447-4f2f-8f63-9b592022a38f.png)
+![image](https://user-images.githubusercontent.com/111955215/187811782-7082eaf5-2574-44c5-bc73-9b9f0463944c.png)
 
 #### 一些DNA walker的奇思妙想
+下图工作是为了检测溶酶体，通过与溶酶体的结合制备Y-WS并进一步制造出金纳米颗粒的toehold，并与Tt结合，从而释放出带有荧光的片段
 
-![image](https://user-images.githubusercontent.com/111955215/187811782-7082eaf5-2574-44c5-bc73-9b9f0463944c.png)
+![image](https://user-images.githubusercontent.com/111955215/187813480-9b579df7-7447-4f2f-8f63-9b592022a38f.png)
 
 ### 应用
 #### 组织engineering
