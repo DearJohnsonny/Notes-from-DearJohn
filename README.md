@@ -93,6 +93,12 @@ DNA walker的动力学：
 <img src="https://user-images.githubusercontent.com/111955215/187821950-296e107a-db9c-4102-95b2-90e8c4c21571.png" width="800">
 </div>
 
+下图也是：
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/187822546-3c477827-eed2-4344-bb11-b1194f97efaf.png" width="800">
+</div>
+
 #### 一些DNA walker的奇思妙想
 下图工作是为了检测溶酶体，通过与溶酶体的结合制备Y-WS并进一步制造出金纳米颗粒的toehold，并与Tt结合，从而释放出带有荧光的片段
 
