@@ -45,7 +45,7 @@ Notes from DearJohn
 ## 外源性DNA抗性机制
 哺乳动物体内主要有三种针对外来DNA的免疫反应：TLR9（Toll-like receptor 9）引发、AIM2（absent in melanoma 2）和cyclic GMP–AMP synthase (cGAS)途径。
 ### TLR9通路
-TLR9位于内体膜，主要感应CpG岛高度甲基化的DNA，然后激活转录因子NF-κB（nuclear factor-κB），IRF7（interferon regulatory factor 7）从而导致编码炎症细胞因子和干扰素的基因高表达。
+TLR9位于内体膜，主要感应CpG岛未甲基化的DNA，然后激活转录因子NF-κB（nuclear factor-κB），IRF7（interferon regulatory factor 7）从而导致编码炎症细胞因子和干扰素的基因高表达。
 
 ![image](https://user-images.githubusercontent.com/111955215/187030875-8f329103-0dce-4008-b7c6-c54f537ecb13.png)
 ### AIM2通路
