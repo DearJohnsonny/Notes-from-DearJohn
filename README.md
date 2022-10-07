@@ -262,14 +262,31 @@ Z-DNA是具有未成熟生物膜的eDNA的主要结构形式，B-DNA是形成Z-D
 
 ### 关于ADAR
 ADAR最初被发现是由于其具有将A→I的功能。
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/194537274-c8188f9c-70b1-4ac8-873f-e4755d2e1485.png" width="1500">
+</div>
+
+(A) ADAR 家族由三个成员组成。两种 ADAR1 亚型，一个长 p150 (1226aa) 和一个短 p110 (931aa)、ADAR2 (701aa) 和无催化活性的 ADAR3 (739aa)。 ADAR1p150 和 ADAR1p110 中存在的 Z-DNA 结合域以绿色表示。双链 RNA 结合域 (dsRBD) 和脱氨酶域 (editase)，分别以蓝色和红色表示，存在于所有三个 ADAR 中。 ADAR1p150 含有一个核输出信号（NES；橙色），说明其细胞质定位，而所有成员都带有一个以黄色描绘的核定位信号 (NLS)。 R 域以紫色表示，使 ADAR3 能够与单链 RNA (ssRNA) 结合。 (B) ADAR 与双链 RNA (dsRNA) 结合并将腺苷残基脱氨基，将其转化为肌苷。肌苷不再与尿嘧啶配对，因此它的存在将 dsRNA 展开为 ssRNA。肌苷与鸟苷具有相同的化学性质，因此被细胞机器进一步识别为鸟苷。
+
 ADAR1基因会转录出两个亚型：ADAR1 p150和ADAR1 p110。其中ADAR1 p110没有Zα结构域，这是ADAR1和Z-DNA/RNA结合的关键。
-![image](https://user-images.githubusercontent.com/111955215/187074083-747cbf5b-80eb-4c86-8265-2add374e8626.png)
+
 研究表明，人ZαADAR1 对 Z-DNA 具有高度的亲和性，而ZβADAR1对Z-DNA的亲和性很弱甚至不能与其结合。Zα结构域是和已经形成的Z-DNA结合，而不是通过诱导产生Z-DNA并与之结合。Zβ的功能尚且不太明确；Zα结构域除了特异性识别和结合 Z-DNA 外，也能与 Z-RNA 结合，结合机制基本一样。
 
+#### Role of ADAR1-induced RNA editing in the suppression of innate (auto)immune response
 病毒感染后，通过对dsRNA的响应（MDA5蛋白识别dsRNA → MAVS蛋白被MDA5激活 → MAVS激活ISG），ISG转录增加；Interferon-stimulated genes (ISG)转录后，ADAR1 p150和一型干扰素被转录。
 而dsRNA的来源主要为转座子（人的基因组序列中一半以上为转座子产生的序列）。外源性基因（病毒基因）通过转座子随机整合到宿主细胞基因组内后（在进化的过程中多种病毒的dsRNA序列被转入人体，成为现在人基因组内高度保守的序列），利用宿主细胞进行转录时，常产生一些dsRNA。Alu SINE的序列占基因组中约10%，而Alu被ADAR编辑（即I→G，导致突变）。
 
-![image](https://user-images.githubusercontent.com/111955215/187074151-1de433e6-798e-42c1-8d29-4a2d87896c92.png)
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/194537623-70b96e8d-ae79-4e40-af63-e23fafc7c1d8.png" width="1500">
+</div>
+(A) dsRNA 被双链 RNA 传感器（dsRNA 传感器）识别，即 MDA5 和 RIG-I。 激活后，RIG-I 和 MDA5 受体都通过线粒体抗病毒信号转导蛋白接头发出信号，进而导致 NF-κB 和 IRF3/7 的激活以及随后 I型IFN和ISG的上调，从而引发先天免疫反应。(B) ADAR1 编辑位于细胞质中的长 dsRNA，抑制 MDA5 或 RIG-1 的下游识别。 该事件导致先天免疫反应的整体抑制。
+
+#### Main molecular consequences of ADAR-induced RNA editing
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/194538051-64930e83-cb2f-4c8c-8487-3b49a9d8c8e5.png" width="1500">
+</div>
+ADAR1 或 ADAR2 (ADAR1/2) 诱导的编码 RNA 的 RNA 编辑可能导致 mRNA 重新编码，从而增加基因组多样性。 如果编辑发生在内含子中，它可能会产生替代转录本，这些转录本可能会或可能不会转化为蛋白质，可能具有改变的功能。 此外，RNA 编辑可能会影响环状 RNA (circRNA) 的生物发生。 circRNA 周围 Alu 区域的 A-to-I RNA 编辑抑制了 circRNA 的生物发生。 在 miRNA 的种子区域进行 A-to-I 编辑会导致具有功能性后果的重新定位事件。 值得注意的是，与前体信使 RNA 结合的长链非编码 RNA (lncRNA) 可以产生 dsRNA，这是 ADAR1/2 介导的 RNA 编辑的先决条件。 存在于转录本 3'UTR 中的倒置 Alu 的 ADAR1 编辑可能导致 HuR 的展开和随后的募集。 HuR 结合稳定转录物并确保正确加工成蛋白质。
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/186903974-a9ecf080-c8f7-4b55-8ace-ee7c53d45b54.png" width="1500">
