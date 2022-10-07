@@ -286,7 +286,9 @@ ADAR1基因会转录出两个亚型：ADAR1 p150和ADAR1 p110。其中ADAR1 p110
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/194538051-64930e83-cb2f-4c8c-8487-3b49a9d8c8e5.png" width="1500">
 </div>
+
 ADAR1 或 ADAR2 (ADAR1/2) 诱导的编码 RNA 的 RNA 编辑可能导致 mRNA 重新编码，从而增加基因组多样性。 如果编辑发生在内含子中，它可能会产生替代转录本，这些转录本可能会或可能不会转化为蛋白质，可能具有改变的功能。 此外，RNA 编辑可能会影响环状 RNA (circRNA) 的生物发生。 circRNA 周围 Alu 区域的 A-to-I RNA 编辑抑制了 circRNA 的生物发生。 在 miRNA 的种子区域进行 A-to-I 编辑会导致具有功能性后果的重新定位事件。 值得注意的是，与前体信使 RNA 结合的长链非编码 RNA (lncRNA) 可以产生 dsRNA，这是 ADAR1/2 介导的 RNA 编辑的先决条件。 存在于转录本 3'UTR 中的倒置 Alu 的 ADAR1 编辑可能导致 HuR 的展开和随后的募集。 HuR 结合稳定转录物并确保正确加工成蛋白质。
+
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/186903974-a9ecf080-c8f7-4b55-8ace-ee7c53d45b54.png" width="1500">
