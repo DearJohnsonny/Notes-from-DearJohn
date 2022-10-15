@@ -1,10 +1,10 @@
 Notes from DearJohn
 =====
-<a href="https://dearjohnsonny.github.io/Notes-from-DearJohn-2/">Notes from DearJohn-2</a>
+<a href="https://dearjohnsonny.github.io/Notes from DearJohn-2/">Notes from DearJohn-2</a>
 
-<a href="https://dearjohnsonny.github.io/Notes-from-DearJohn-3/">Notes3-Statistics</a>
+<a href="https://dearjohnsonny.github.io/Notes3-Statistics/">Notes3-Statistics</a>
 
-<a href="https://dearjohnsonny.github.io/Notes-from-DearJohn-4/">Notes4-Linear-Algebra</a>
+<a href="https://dearjohnsonny.github.io/Notes4-Linear-Algebra/">Notes4-Linear-Algebra</a>
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/186898614-eb2f6796-7eca-482b-98a2-c0416ea47912.png" width="1500">
