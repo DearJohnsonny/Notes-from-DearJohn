@@ -2,7 +2,7 @@ Notes from DearJohn
 =====
 <a href="https://dearjohnsonny.github.io/Notes-from-DearJohn-2/">Notes from DearJohn-2</a>
 
-<a href="https://dearjohnsonny.github.io/Notes-from-DearJohn-3/">Notes from DearJohn-3</a>
+<a href="https://dearjohnsonny.github.io/Notes-from-DearJohn-3/">Notes3-Statistics</a>
 
 <a href="https://dearjohnsonny.github.io/Notes-from-DearJohn-4/">Notes4-Linear-Algebra</a>
 
