@@ -307,7 +307,7 @@ DNA甲基化是在DNA甲基转移酶（DNA methyltransferase，DNMTs）的催化
 DNMTs家族的成员包括DNMT1、DNMT2、DNMT3a、DNMT3b、DNMT3L等蛋白，它们的结构如下图所示。但请注意，并非上面列出的DNMTs都具有催化DNA甲基化的功能。研究显示，DNMT2的功能主要是催化RNA的甲基化，而DNMT3L并不具备催化活性，所以我们在谈论DNMT的时候，一般指的是DNMT1和DNMT3a/3b。
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/197442179-69533151-175a-4f6f-803b-a02205fe499b.png" width="1500">
+<img src="https://user-images.githubusercontent.com/111955215/197442179-69533151-175a-4f6f-803b-a02205fe499b.png" width="600">
 </div>
 
 虽然DNMT1和DNMT3a/3b这两个蛋白都具有甲基转移酶的活性，但它们对DNA的修饰方式有所不同。
