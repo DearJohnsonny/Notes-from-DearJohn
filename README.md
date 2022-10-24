@@ -299,7 +299,27 @@ ADAR1 或 ADAR2 (ADAR1/2) 诱导的编码 RNA 的 RNA 编辑可能导致 mRNA �
 </div>
 
 ## 甲基化
+
 ### DNA甲基化
+#### DNA甲基化酶
+DNA甲基化是在DNA甲基转移酶（DNA methyltransferase，DNMTs）的催化下进行的。该反应以S-腺苷甲硫氨酸（SAM）为甲基供体将胞嘧啶核苷酸第5位碳原子进行甲基化生成5-mC
+
+DNMTs家族的成员包括DNMT1、DNMT2、DNMT3a、DNMT3b、DNMT3L等蛋白，它们的结构如下图所示。但请注意，并非上面列出的DNMTs都具有催化DNA甲基化的功能。研究显示，DNMT2的功能主要是催化RNA的甲基化，而DNMT3L并不具备催化活性，所以我们在谈论DNMT的时候，一般指的是DNMT1和DNMT3a/3b。
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/197442179-69533151-175a-4f6f-803b-a02205fe499b.png" width="1500">
+</div>
+
+虽然DNMT1和DNMT3a/3b这两个蛋白都具有甲基转移酶的活性，但它们对DNA的修饰方式有所不同。
+
+我们知道，DNA是双链结构，双链DNA的任意一条链上的C都可能被甲基化成5-mC。在DNA复制的时候，DNA双链打开形成复制叉，然后执行DNA复制功能的蛋白复合物分别以正义链和反义链分别为模板合成新的双链DNA。因为新合成的这条DNA单链是不含有甲基化的胞嘧啶的，所以，假如模板链的胞嘧啶是甲基化的，那么新生成的DNA双链之中的一条DNA单链甲基化就会“丢失”。
+
+为了解决甲基化丢失的问题，DNMT1就派上了用场——DNMT1负责准确复制DNA甲基化形式，在DNA复制的过程中起着维持甲基化的作用（如下图所示）；而DNMT3a/3b的作用则是在原本任意一条DNA单链都不存在甲基化修饰的位点加上甲基化修饰，即从头（de novo）甲基化。
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/197441816-09366401-7b88-4225-9313-ed4c451fa888.png" width="900">
+</div>
+
 * **DNA甲基化只能发生在胞嘧啶C上**：即5-mC修饰。其机制为：**胞嘧啶C的5位碳原子**上可以被甲基化修饰，生成5-mC（5-甲基胞嘧啶）。DNA甲基化是在**DNA甲基转移酶**（DNA methyltransferase，DNMTs）的催化下进行的。该反应以**S-腺苷甲硫氨酸（SAM）为甲基供体**将胞嘧啶核苷酸第5位碳原子进行甲基化生成5-mC。
 
 <div align=center>
