@@ -418,6 +418,37 @@ m6A调节小核RNA（snRNA）以促进剪接体装配
 <img src="https://user-images.githubusercontent.com/111955215/203681502-0774e6dc-8906-4f30-93b5-d8898ddff889.png" width="600">
 </div>
 
+#### m6A对基因组的影响
+m6A和染色质修饰之间的交叉增强了表观遗传学特征。YTHDC 1可以结合m6 A修饰的转录物和组蛋白H3赖氨酸9（H3 K9）脱甲基酶KDM 3B，以诱导组蛋白脱甲基化，从而增强活跃转录区域的染色质可及性。此外，H3赖氨酸36（H3 K36）的甲基化可以招募METTL 3-METTL 14 N6 -腺苷甲基化复合物，以m6A-甲基化活性染色质区域中的新生转录物
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/203682670-382d35e1-01fd-4431-bc26-60558cedf231.png" width="600">
+</div>
+
+m6A调节长非编码RNA（lncRNA）的活性和折叠。XistlncRNA在许多位点被N6-腺苷甲基化，m6A以YTHDC1依赖性方式促进Xist介导的基因沉默和X染色体失活
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/203682837-786b21c8-235c-4b24-a8e1-26ab04949bc8.png" width="600">
+</div>
+
+MALAT1 lncRNA的m6A诱导构象变化，这导致异质核核糖核蛋白C（HNRNPC）结合以及核组织和肿瘤发生的改变。
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/203682896-9a61693f-ed19-47cf-b499-60e83395e142.png" width="600">
+</div>
+
+m6A通过多种机制促进内源性逆转录病毒RNA（ERV）抑制以维持基因组稳定性。m6A修饰的脑池内A颗粒（IAP）mRNA与YTHDC1结合，YTHDC1募集组蛋白H3K9甲基转移酶SETDB1，导致抑制性染色质标记物沉积.此外，YTHDF2结合m6A修饰的IAP转录物以诱导IAP mRNA的降解。
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/203683074-f30906b5-49c4-4899-a061-6082e72a78a8.png" width="600">
+</div>
+
+m6A防止由RNA:DNA杂合体（R-环）引起的基因组不稳定性.R-loop中RNA的m6A导致YTHDF2依赖的RNA降解，从而抑制R-loop的形成并防止基因组不稳定性
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/203683117-e924b7ff-ec65-4f58-a70c-b822d50e7db5.png" width="600">
+</div>
+
 #### 总结一张图
 ![image](https://user-images.githubusercontent.com/111955215/186906317-e1cb21a2-8ea9-448d-b46c-6f6d5984fab8.png)
 
