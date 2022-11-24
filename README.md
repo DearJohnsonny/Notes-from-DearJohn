@@ -372,32 +372,32 @@ m6A的修饰由甲基转移酶复合体（(METTL3–METTL14–WTAP）介导发�
 通过直接和间接的方式调控pre-mRNA的剪接
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/203680082-7acfac7a-89ce-413f-9c5c-3fbeee2f564e.png" width="1500">
+<img src="https://user-images.githubusercontent.com/111955215/203680082-7acfac7a-89ce-413f-9c5c-3fbeee2f564e.png" width="600">
 </div>
 
 m6A促进mRNA核输出
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/203680240-3db56e91-6755-4700-a449-d92808cefe08.png" width="1500">
+<img src="https://user-images.githubusercontent.com/111955215/203680240-3db56e91-6755-4700-a449-d92808cefe08.png" width="600">
 </div>
 
 m6A既可以促进mRNA的降解，又可以抑制mRNA的降解
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/203680487-36185df8-8edf-497b-ab48-2939d7063cbd.png" width="1500">
+<img src="https://user-images.githubusercontent.com/111955215/203680487-36185df8-8edf-497b-ab48-2939d7063cbd.png" width="600">
 </div>
 
 m6A根据其在mRNA中的位置促进或减慢翻译。如果甲基化的腺苷位于5′非翻译区（UTR），真核生物翻译起始因子3（eIF3）的结合会募集43S翻译起始复合物来促进帽非依赖性翻译。如果m6A出现在3′ UTR，YTHDF1或YTHDF3将结合并刺激翻译。然而，如果m6A位于编码区，它可以通过抑制有效的tRNA选择来减慢翻译延伸速率
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/203680552-19f44bc4-7d91-4f50-88f9-688e91a677e0.png" width="1500">
+<img src="https://user-images.githubusercontent.com/111955215/203680552-19f44bc4-7d91-4f50-88f9-688e91a677e0.png" width="600">
 </div>
 
 #### 总结一张图
 ![image](https://user-images.githubusercontent.com/111955215/186906317-e1cb21a2-8ea9-448d-b46c-6f6d5984fab8.png)
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/187030542-76a9b49b-9d59-407b-88fd-05ae8596a5f3.jpg" width="1500">
+<img src="https://user-images.githubusercontent.com/111955215/187030542-76a9b49b-9d59-407b-88fd-05ae8596a5f3.jpg" width="600">
 </div>
 
 ## 核酸药物
