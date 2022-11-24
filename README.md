@@ -362,7 +362,7 @@ RNA的甲基化主要发生在N原子上，以及2位的O原子上
 <img src="https://user-images.githubusercontent.com/111955215/203678617-bc25e46c-ac0b-4479-9af6-f3b10f18f2c4.png" width="1500">
 </div>
 
-#### m6A的作用
+#### m6A在mRNA上的作用
 m6A的修饰由甲基转移酶复合体（(METTL3–METTL14–WTAP）介导发生；去甲基化由FTO and ALKBH5介导产生
 
 <div align=center>
@@ -391,6 +391,31 @@ m6A根据其在mRNA中的位置促进或减慢翻译。如果甲基化的腺苷�
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/111955215/203680552-19f44bc4-7d91-4f50-88f9-688e91a677e0.png" width="600">
+</div>
+
+#### m6A在ncRNA上的作用
+对于rRNA，无论是大亚基还是小亚基，m6A有助于翻译的增加，同时减缓细胞增殖
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/203681094-bfeda767-6a94-4fa1-814c-21f9c1150950.png" width="600">
+</div>
+
+m6A有助于加速miRNA的形成
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/203681263-97ab3bf9-da6d-4fb4-9415-32548b2fd9ff.png" width="600">
+</div>
+
+m6A有助于环状RNA的形成，以及促进环状RNA的翻译（Cap-independent translation）
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/203681333-6065b605-fd38-4db9-8f3f-0b911637d809.png" width="600">
+</div>
+
+m6A调节小核RNA（snRNA）以促进剪接体装配
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/203681502-0774e6dc-8906-4f30-93b5-d8898ddff889.png" width="600">
 </div>
 
 #### 总结一张图
