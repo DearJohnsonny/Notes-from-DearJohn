@@ -356,6 +356,14 @@ DNMTs家族的成员包括DNMT1、DNMT2、DNMT3a、DNMT3b、DNMT3L等蛋白，�
 
 ![image](https://user-images.githubusercontent.com/111955215/186892195-b09d37a3-157d-4403-8539-b410d3f078e7.png)
 ### RNA甲基化
+RNA的甲基化主要发生在N原子上，以及2位的O原子上
+
+<div align=center>
+<img src="https://user-images.githubusercontent.com/111955215/203678617-bc25e46c-ac0b-4479-9af6-f3b10f18f2c4.png" width="1500">
+</div>
+
+
+#### 总结一张图
 ![image](https://user-images.githubusercontent.com/111955215/186906317-e1cb21a2-8ea9-448d-b46c-6f6d5984fab8.png)
 
 <div align=center>
