@@ -6,16 +6,6 @@ Notes from DearJohn
 
 <a href="https://dearjohnsonny.github.io/Notes4-Linear-Algebra/">Notes4-Linear-Algebra</a>
 
-<div align=center>
-<img src="https://user-images.githubusercontent.com/111955215/186898614-eb2f6796-7eca-482b-98a2-c0416ea47912.png" width="1500">
-</div>
-
-
-## 常用的工具
-<a href="http://www.unafold.org/mfold/applications/rna-folding-form.php">RNA和DNA的二级结构预测及结果打印</a>
-
-<a href="https://www.jingege.wang/bioinformatics/gene_alias.html">人类基因数据库及其编号</a>
-
 ## 干扰素通路
 ### TLR受体
 在人体免疫细胞表面有一类识别病毒及细菌等病原体的受体（PRR），识别内容是病原微生物的核酸或是细胞膜成分等，这是细胞抵御病原体入侵的第一道防线。研究发现，这类受体（PRR）主要是Toll 样受体(TLRs)，目前已发现11个 TLR 家族成员，其中 TLR1、TLR2、TLR4、TLR5、TLR6 和 TLR11 位于细胞表面，而 TLR3、TLR7、TLR8 和 TLR9 位于内体/溶酶体部分。大家都比较清楚，病毒的主要结构是遗传物质DNA或者RNA及包膜蛋白，TLR3 and TLR7/8能特异性识别病毒RNA，TLR9识别病毒的CpG-DNA。
